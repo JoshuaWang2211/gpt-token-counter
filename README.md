@@ -1,4 +1,4 @@
-# 🧮 GPT Token Counter
+# 🦮 GPT Token Counter
 
 一個簡單好用的 GPT Token 計算器，支援多種 OpenAI 模型。  
 可輸入文字、純文字檔案路徑，或進入多行輸入模式計算 token 數。
@@ -15,13 +15,13 @@
 
 ---
 
-🖼️ 工具執行畫面截圖：
+🖼️ 使用畫面預覽
 
-![GPT Token Counter Screenshot](./screenshot.png)
+(./screenshot.png)](./screenshot.png)
 
 ---
 
-## 🚀 安裝與執行方式（適用 Windows 使用者）
+## 🚀 安裝與執行方式（以下以 Windows 為例，macOS 使用者亦可參考）
 
 ### 1. 安裝 Python
 
@@ -63,6 +63,14 @@ python -m pip install tiktoken
 
 ```bash
 python gpt_token_counter.py
+```
+
+### macOS / Linux 執行方式：
+
+在終端機中 cd 到該資料夾，輸入：
+
+```bash
+python3 gpt_token_counter.py
 ```
 
 ---
