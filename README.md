@@ -1,4 +1,4 @@
-# 🦮 GPT Token Counter
+# 🧮 GPT Token Counter
 
 一個簡單好用的 GPT Token 計算器，支援多種 OpenAI 模型。  
 可輸入文字、純文字檔案路徑，或進入多行輸入模式計算 token 數。
@@ -17,7 +17,7 @@
 
 🖼️ 使用畫面預覽
 
-(./screenshot.png)](./screenshot.png)
+![Token Counter Screenshot](./screenshot.png)
 
 ---
 
